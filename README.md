@@ -25,17 +25,17 @@ $message
 - `$` fetches the value from the variable.
 
 **ARITHMETIC OPERATORS**
-`+` - `EXPRESSION + EXPRESSION`
-`-` - `EXPRESSION - EXPRESSION`
-`*` - `EXPRESSION * EXPRESSION`
-`/` - `EXPRESSION / EXPRESSION`
-`%` - `EXPRESSION % EXPRESSION`
+- `+` - `EXPRESSION + EXPRESSION`
+- `-` - `EXPRESSION - EXPRESSION`
+- `*` - `EXPRESSION * EXPRESSION`
+- `/` - `EXPRESSION / EXPRESSION`
+- `%` - `EXPRESSION % EXPRESSION`
 
 **CONDITIONAL OPERATORS**
-`>` - `EXPRESSION > EXPRESSION`
-`<` - `EXPRESSION < EXPRESSION`
-`==` - `EXPRESSION == EXPRESSION`
-`!=` - `EXPRESSION != EXPRESSION`
+- `>` - `EXPRESSION > EXPRESSION`
+- `<` - `EXPRESSION < EXPRESSION`
+- `==` - `EXPRESSION == EXPRESSION`
+- `!=` - `EXPRESSION != EXPRESSION`
 
 **COMMENTS**
 ```
@@ -47,7 +47,7 @@ $message
 
 ```
 y := 342
-z := $x % 2
+z := $y % 2
 
 $z == 0
 ```
